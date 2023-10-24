@@ -11,9 +11,9 @@ my Name ist **Malte**.
 I'm serving voluntarily as Elternrat in the Campusschule Kielerstrasse and as boardmember of the Kreiselternrat 21 both in Hamburg.
 
 # During this course I intend to develop:
-*- a new Website for the KER21,
-*- creating a personal Artist Page,
-*- learning to learn again,
-*- start blogging.
+- a new Website for the KER21,
+- creating a personal Artist Page,
+- learning to learn again,
+- start blogging.
 
   
