@@ -5,7 +5,8 @@ my Name ist **Malte**.
 
 *I'm 44, father, DJ and a new into Website development attending a course @neueFische in Hamburg.*
 
-![GitHub_Profile_Pic](https://github.com/JMaltePetersen/JMP/assets/148753903/7e05d3fa-fa90-4c65-8fb7-e7d3dcdc9ad7)
+![GitHub_Profile_Pic](https://github.com/JMaltePetersen/JMP/assets/148753903/b71e573d-c5bc-4f05-8ec5-4e048f88f2bf)
+
 
 I'm serving voluntarily as Elternrat in the Campusschule Kielerstrasse Hamburg and as boardmember of the Kreiselternrat 21.
 
