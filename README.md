@@ -3,14 +3,17 @@
 Hello,
 my Name ist **Malte**. 
 
-*I'm 34, father, DJ and a new into Website development.*
+*I'm 44, father, DJ and a new into Website development attending a course @neueFische in Hamburg.*
 
-I'm working voluntarily as Elternrat in the Campusschule Kielerstrasse Hamburg and as board of the Kreiselternrat 21.
-During this course I intend to develop:
+![GitHub_Profile_Pic](https://github.com/JMaltePetersen/JMP/assets/148753903/7e05d3fa-fa90-4c65-8fb7-e7d3dcdc9ad7){width=250px}
 
-- a new Website for the KER21 as well as
-- creating my personal Artist Page.
+I'm serving voluntarily as Elternrat in the Campusschule Kielerstrasse Hamburg and as boardmember of the Kreiselternrat 21.
 
+##During this course I intend to develop:
 
-![GitHub_Profile_Pic](https://github.com/JMaltePetersen/JMP/assets/148753903/7e05d3fa-fa90-4c65-8fb7-e7d3dcdc9ad7)
+- a new Website for the KER21,
+- creating a personal Artist Page,
+- learning to learn again,
+- start blogging.
 
+  
